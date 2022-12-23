@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "The Call of Cthulhu",
+      "author": "H. P. Lovecraf",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "author": "J. K. Row",
+      "id": 2
+    },
+    {
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
